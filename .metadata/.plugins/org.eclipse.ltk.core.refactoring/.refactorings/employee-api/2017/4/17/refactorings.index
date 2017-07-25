@@ -1,0 +1,22 @@
+1493045555505	Rename package 'employee'
+1493052881535	Move compilation unit
+1493054148642	Move compilation unit
+1493058979916	Move compilation unit
+1493059761200	Move compilation unit
+1493075271151	Move compilation unit
+1493075712980	Move compilation unit
+1493075785027	Rename package 'employees'
+1493075811726	Rename package 'hello'
+1493220383023	Copy package
+1493224339952	Rename type 'Employee'
+1493224375197	Rename type 'EmployeeService'
+1493224401964	Rename type 'EmployeeRepo'
+1493224429609	Rename type 'EmployeeController'
+1493226609104	Rename package 'com.spboot.rest.idealikes'
+1493226642629	Rename package 'com.spboot.rest.idea'
+1493226693353	Copy package
+1493226834077	Rename type 'Idea'
+1493226858296	Rename type 'IdeaService'
+1493226876620	Rename type 'IdeaRepo'
+1493226893175	Rename type 'IdeaController'
+1493228463651	Encapsulate field 'idea'
